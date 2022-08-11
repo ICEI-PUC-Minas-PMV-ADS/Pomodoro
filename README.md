@@ -17,9 +17,9 @@ Esses intervalos – chamados pomodoros – são tradicionalmente de 25 minutos 
 
 🍅 *Gabriel*
 
-🍅 *Leonardo*
-
 🍅 *Kaique*
+
+🍅 *Leonardo*
 
 🍅 *Mariene*
 
