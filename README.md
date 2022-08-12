@@ -13,7 +13,7 @@ Esses intervalos – chamados pomodoros – são tradicionalmente de 25 minutos 
 
 ## Integrantes
 
-🍅 *Allana*
+🍅 *Allana Tavares Bastos*
 
 🍅 *Gabriel Garcia*
 
@@ -21,7 +21,7 @@ Esses intervalos – chamados pomodoros – são tradicionalmente de 25 minutos 
 
 🍅 *Leonardo*
 
-🍅 *Mariene*
+🍅 *Mariane Serapião*
 
 🍅 *Sabrina Gomes Silva*
 
