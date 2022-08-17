@@ -2,43 +2,46 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidados com a participação dos usuários em um trabalho de imersão feito pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+
+Apresenta-se também os requisitos funcionais e não funcionais, além das restrições do projeto.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Desta forma, constatou-se que o presente projeto possui 3 principais personas:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+- Vestibulandos (na faixa de idade entre 15 e 18 anos).
+- Universitários (na faixa de idade entre 19 e 30 anos )
+- Candidatos às vagas de concursos públicos (na faixa de idade de 31 e 50 anos)
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+A seguir, passamos à análise detalhada das principais personas e suas respectivas histórias de usuários.
+
+| Enzo de Góis                                                                                                                                                                                |                                                                                                                                                                                                                                                    |                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| ![img_1.png](img_1.png)                                                                                                                                                                     | **Idade:** 16  anos - **Ocupação:** Estudante do Ensino Médio Fundamental e vestibulando.                                                                                                                                                          | **Aplicativos**: Instagram,TikTok, Aplicativos de jogos.                                                                                   |
+| **Motivações:**  Enzo está cursando o primeiro grau do ensino médio e já se prepara para a prova de vestibular, com foco em odontologia. Sonha em ser dentista cirurgião e ajudar pessoas. | **Frustrações:** Além das matérias regulares da escola, Enzo estuda em um cursinho preparatório. As vezes tem dificuldades para conciliar os estudos da escola e as atividades do cursinho preparatório, que inclui treino para a prova do Enem.   | **Hobbies, História:** Enzo, adora tecnologia e utilizar aplicativos inovadores. Nas horas vagas, gosta de jogar online com os amigos. | 
+
+| Pedro Maia                                                                                                      |                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![image](https://user-images.githubusercontent.com/78277341/185220156-641e9873-053b-4289-9bcb-1a4c0aa7da00.png) | **Idade:** 19  anos - **Ocupação:** Estudante de Medicina.                                                                                                                                                                                                                                                                    | **Aplicativos**: Instagram, Facebook, Linkedin, Aplicativos de bancos e Tinder.                                                                                                                                                                                           |
+| **Motivações:**  Pedro sonha em ser médico e poder proporcionar uma vida confortável para seus pais.            | **Frustrações:** Pedro estuda em tempo integral e possui muitas matérias para estudar diariamente. A faculdade demanda muita organização e ele possui dificuldades para administrar o tempo de estudos. O cansaço tem contribuído para perda de foco e queda de sua produtividade. Possui TDHA e perde o foco com frequência. | **Hobbies, História:** Pedro acredita que os estudos podem transformar a vida de qualquer pessoa. Está ansioso para concluir o curso e alcançar sua independência profissional e financeira. Nas horas vagas, gosta de visitar lugares novos, como restaurantes e boates. | 
+
+| Isabela Meireles                                                                                                |                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![image](https://user-images.githubusercontent.com/78277341/185224289-3ba94bd9-90e9-4836-8d19-7e7c4022eb23.png) | **Idade:** 26  anos - **Ocupação:** Analista oficial do TRT.                                                                                                                                                                                                              | **Aplicativos**: Instagram, Linkedin, Aplicativos de bancos.                                                                                                                                                                                                                 |
+| **Motivações:** Ser Promotora de Justiça .                                                                      | **Frustrações:** Além de trabalhar como oficial de justiça no tribunal regional do trabalho, Isabela estuda para um concurso muito disputado e difícil. Possui apenas 4 horas por dia para se dedicar aos estudos e precisa utilizar esse tempo com eficácia e qualidade. | **Hobbies, História:** Isabela passou em seu primeiro concurso aos 21 anos, para o cargo de analista oficial. Contudo, seu grande sonho é ser Promotora de Justiça e por isso se formou em direito. Seu principal hobbe é assistir séries e filmes de investigação criminal. | 
+
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                      | PARA ... `MOTIVO/VALOR`          |
+|----------------------|-----------------------------------------------------------------------------------------|----------------------------------|
+| Vestibulando         | Aprender todas as matérias e concluir as tarefas escolares em tempo hábil.              | Passar no vestibular.            |
+| Universitário        | Estudar com mais produtividade e foco.                                                  | Aprovação nas matérias do curso. |
+| Concurseira          | Concluir cronograma semanal de estudos e aproveitar o tempo disponível de forma eficaz. | Aprovação em concurso público.   |
 
 ## Requisitos
 
