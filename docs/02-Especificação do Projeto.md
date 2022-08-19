@@ -45,58 +45,44 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Universitário        | Estudar com mais produtividade e foco.                                                  | Aprovação nas matérias do curso. |
 | Concurseira          | Concluir cronograma semanal de estudos e aproveitar o tempo disponível de forma eficaz. | Aprovação em concurso público.   |
 
-## Requisitos
+## Requisitos do projeto
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto abrange duas principais partes: requisitos funcionais, descrevendo  possibilidades  de interação  dos  usuários, e requisitos  não  funcionais, descrevendo os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir, acompanhados por algumas limitações identificadas. Tais informações foram dispostas em tabelas para uma melhor compreensão.
 
-### Requisitos Funcionais
+### Requisitos funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RF-01 | O software deve apresentar na tela inicial o progresso em horas, os projetos ou tarefas criados, ícone para acesso às listas to-do, ícone para acesso e criação de anotações e um botão para adicionar novos projetos. | Alta |
+| RF-02 | O cronômetro vem ajustado para 25 minutos de atividade e 5 de pausa.  | Média |
+| RF-03 | O software terá uma lista to-do para marcação de tarefas realizadas. | Alta |
+| RF-04 | O software deve conter alternância de tema de acordo com modo diurno e nortuno. | Média |
+| RF-05 | O software deve conter status de progresso basedo em parâmetros. | Média |
+| RF-06 | O software deve conter status de progresso em horas referente a cada tarefa. | Baixa |
+| RF-07 | O software deve conter parâmetros em horas, divididos em "Total Foco", "Total Distração" e "Total Pausa". | Baixa |
+| RF-08 | O software deve conter botão para acesso a um modal para adição de um novo projeto ou tarefa. | Alta |
+| RF-09 | O software deve dispor de um coutdown para visualização de progresso. | Média |
+| RF-10 | Os elementos da lista to-do são riscados quando concluídos. | Média |
+| RF-11 | Os elementos da lista to-do podem ser associados ao temporizador de tempo, garantindo a troca de atividades. | Baixa |
+| RF-12 | A paleta de cores do software muda automaticamente de acordo com o horário do computador local. | Baixa |
+| RF-13 | O software deve exibir um alerta ao final de cada ciclo. | Média |
+| RF-14 | A tela inicial deve exibir menu para interação com outras funcionalidades. | Média |
+| RF-15 | O software deve apresentar dentro de cada tarefa ou projeto um temporizador. | Média |
+| RF-16 | O software deve conter botão para acesso a um modal, onde o usuário poderá escrever anotações, tal como um bloco de notas. | Baixa |
 
-### Requisitos não Funcionais
+### Requisitos não-funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RNF-01 | A aplicação deve ser publicada em repositório público acessível na internet. | Alta |
+| RNF-02 | Uso de design responsivo nas interfaces gráficas.  | Alta |
+| RNF-03 | O som do temporizador deve variar de acordo com as configurações do dispositivo. | Baixa |
+| RNF-04 | Será possível o ajuste de tempo das terefas ou projetos conforme a necessidade do usuário. | Média |
+| RNF-05 | O software deverá armazenar as informações descritas ou selecionas pelo usuário. | Média |
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-## Diagrama de Casos de Uso
-
-O diagrama de casos de uso foi funamentado de acordo com os requisitos apresentados no projeto. Um diagrama de caso de uso é usado para descrever graficamente um subconjunto do modelo para simplificar a comunicação. Foi utilizado um modelo para fácil visualizacçäo do projeto como um todo.
-
-![Diagrama sem nome drawio](https://user-images.githubusercontent.com/75712250/184796855-979b3137-545e-44c1-91f4-f712e1aad14f.png)
-
+| ID  | Descrição |
+| ------------- | ------------- |
+| RE-01 | O projeto necessita ser entregue até o final do semestre, respeitando o prazo estipulado. |
+| RE-02 | O projeto deve ser implementado com uso de tecnologias mobile, podendo fazer uso de bibliotecas que influenciem positivamente na qualidade do software.  |
