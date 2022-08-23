@@ -9,12 +9,16 @@ No mercado de trabalho também é difícil a gestão do tempo com tantas tarefas
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+A criação de uma aplicação mobile que permita a gestão do tempo para execução de atividades de estudo e de trabalho, visando à diminuição da ansiedade e ao aumento do foco e concentração nas tarefas, evitando tempo desperdiçado e distrações com base na técnica Pomodoro.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### Objetivos específicos
+
+•	Fornecer aos estudantes e profissionais instrumentos que propiciem a organização de conteúdos e metas;
+•	Estabelecer critérios de tempo para execução de atividades e descanso de acordo com os horários de estudantes e de profissionais;
+•	Permitir que estudantes e profissionais organizem melhor tempos de execução de tarefas e de descanso;
+•	Auxiliar as capacidades de abstração e foco na rotina de estudantes e profissionais.
+•	O aumento da produtividade.
+
 
 ## Justificativa
 
