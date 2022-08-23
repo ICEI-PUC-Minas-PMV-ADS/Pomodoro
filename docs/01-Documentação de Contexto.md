@@ -13,11 +13,11 @@ A criação de uma aplicação mobile que permita a gestão do tempo para execu�
 
 ### Objetivos específicos
 
-•	Fornecer aos estudantes e profissionais instrumentos que propiciem a organização de conteúdos e metas;
-•	Estabelecer critérios de tempo para execução de atividades e descanso de acordo com os horários de estudantes e de profissionais;
-•	Permitir que estudantes e profissionais organizem melhor tempos de execução de tarefas e de descanso;
-•	Auxiliar as capacidades de abstração e foco na rotina de estudantes e profissionais.
-•	O aumento da produtividade.
+-	Fornecer aos estudantes e profissionais instrumentos que propiciem a organização de conteúdos e metas;
+- Estabelecer critérios de tempo para execução de atividades e descanso de acordo com os horários de estudantes e de profissionais;
+-	Permitir que estudantes e profissionais organizem melhor tempos de execução de tarefas e de descanso;
+-	Auxiliar as capacidades de abstração e foco na rotina de estudantes e profissionais.
+-	O aumento da produtividade.
 
 
 ## Justificativa
