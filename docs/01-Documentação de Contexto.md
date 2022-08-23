@@ -3,16 +3,9 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A escolha da aplicação foi elaborada pensando em indivíduos que se dedicam às atividades estudantis e precisam balancear estudos, trabalhos e provas, sejam eles jovens em idade escolar ou universitários que tem dificuldades em gerenciar o tempo de seus afazeres, o que causa nos estudantes prostração e um entendimento precário dos tópicos que estão sendo estudados. Porém tais estudantes nem sempre tem um computador a disposição, por isso o projeto será desenvolvido em React Native.
+No mercado de trabalho também é difícil a gestão do tempo com tantas tarefas a serem realizadas em ambientes cada vez mais automatizados, no cotidiano profissional existe uma carência de softwares que proporcionem a profissionais meios de gestão do tempo e organização de conteúdos e  tarefas com base na técnica Pomodoro, sobretudo em língua portuguesa, a aplicação visa um melhor proveito e produtividade das atividades a serem realizadas, bem como garantindo um melhor equilíbrio de vida na rotina cotidiana.
 
 ## Objetivos
 
