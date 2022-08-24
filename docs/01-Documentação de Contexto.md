@@ -2,7 +2,7 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
-## Problema
+## Especificação do Problema
 
 A escolha da aplicação foi elaborada pensando em indivíduos que se dedicam às atividades estudantis e precisam balancear estudos, trabalhos e provas, sejam eles jovens em idade escolar ou universitários que tem dificuldades em gerenciar o tempo de seus afazeres, o que causa nos estudantes prostração e um entendimento precário dos tópicos que estão sendo estudados. Porém tais estudantes nem sempre tem um computador a disposição, por isso o projeto será desenvolvido em React Native.
 No mercado de trabalho também é difícil a gestão do tempo com tantas tarefas a serem realizadas em ambientes cada vez mais automatizados, no cotidiano profissional existe uma carência de softwares que proporcionem a profissionais meios de gestão do tempo e organização de conteúdos e  tarefas com base na técnica Pomodoro, sobretudo em língua portuguesa, a aplicação visa um melhor proveito e produtividade das atividades a serem realizadas, bem como garantindo um melhor equilíbrio de vida na rotina cotidiana.
@@ -28,6 +28,12 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
+
+## Proposta de solução
+
+lalalalalallala
+
 
 ## Público-Alvo
 
