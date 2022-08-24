@@ -1,4 +1,4 @@
-# 🍅 Pomodoro
+# 🍅 TimeUp - Pomodoro
 
 <a href="https://icei-puc-minas-pmv-ads.github.io/PetCare/"><img src="https://dionatanmoura.files.wordpress.com/2016/06/pomodoro.png" width="1900px"></a>
 #
@@ -17,13 +17,13 @@ Esses intervalos – chamados pomodoros – são tradicionalmente de 25 minutos 
 
 🍅 *Gabriel Garcia*
 
-🍅 *Kaique rocha*
+🍅 *Kaique Rocha*
 
-🍅 *Leonardo*
+🍅 *Leonardo Filter*
 
 🍅 *Mariane Serapião*
 
-🍅 *Sabrina Gomes Silva*
+🍅 *Sabrina Gomes*
 
 ## Orientador
 
