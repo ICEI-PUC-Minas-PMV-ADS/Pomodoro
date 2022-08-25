@@ -5,7 +5,7 @@ Um método que auxilia o gerenciamento de tempo é a "A técnica Pomodoro, desen
 Conforme o livro de Cirillo “The Pomodoro Technique”, a técnica foi criada para utilizar o tempo como um valioso aliado e realizar o que queremos fazer e do jeito que queremos fazê-lo. Além disso, capacita-nos continuamente para melhorar nossos processos.
 Ao usar esse método, é possível saber não só a quantidade de atividades que são feitas, como também a qualidade. Além disso, pode-se medir o que está atrapalhando a realização das tarefas.
 A simples técnica pode servir também na gestão do trabalho, uma vez que profissionais (tanto nas empresas quanto em situação de trabalho remoto) podem apresentar dificuldades em administrar as tarefas e o tempo para execução destas. 
-Com o advento dos aparelhos eletrônicos, principalmente smartfones e tabletes como auxiliar na educação e uma poderosa ferramenta no ambiente de trabalho, todos com um dispositivo digital, por mais simples que possa ser conseguem usar o método pomodoro.
+Com o advento dos aparelhos eletrônicos, principalmente smartphones e tabletes como auxiliar na educação e uma poderosa ferramenta no ambiente de trabalho, todos com um dispositivo digital, por mais simples que possa ser conseguem usar o método pomodoro.
 O método "usa o tempo como aliado" e consiste em dividir nosso dia em blocos de 25 minutos ("pomodoros"), com pequenos intervalos entre eles.
 
 Este é o passo a passo:
