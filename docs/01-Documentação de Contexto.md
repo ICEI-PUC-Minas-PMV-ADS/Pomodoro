@@ -10,12 +10,12 @@ O método "usa o tempo como aliado" e consiste em dividir nosso dia em blocos de
 
 Este é o passo a passo:
 
-- 1) Escolha a tarefa a ser executada;
-- 2) Ajuste o cronômetro para 25 minutos;
-- 3) Trabalhe na tarefa escolhida até que o alarme toque;
-- 4) Quando o alarme tocar, verifique se completou a tarefa
-- 5) Faça uma pausa curta (5 minutos);
-- 6) Depois de concluir quatro blocos de 25 minutos de trabalho, faça uma pausa mais longa (30 minutos).
+- 1 Escolha a tarefa a ser executada;
+- 2 Ajuste o cronômetro para 25 minutos;
+- 3 Trabalhe na tarefa escolhida até que o alarme toque;
+- 4 Quando o alarme tocar, verifique se completou a tarefa
+- 5 Faça uma pausa curta (5 minutos);
+- 6 Depois de concluir quatro blocos de 25 minutos de trabalho, faça uma pausa mais longa (30 minutos).
 
 ## Especificação do Problema
 
