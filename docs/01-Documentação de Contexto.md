@@ -22,12 +22,7 @@ A criação de uma aplicação mobile que permita a gestão do tempo para execu�
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Esse problema se manifesta não só na questão de prazos, mas também na separação do tempo do trabalho no dia, que pode acabar se estendendo mais que o devido. 
 
 
 ## Proposta de solução
