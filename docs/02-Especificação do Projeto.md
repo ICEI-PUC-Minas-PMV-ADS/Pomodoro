@@ -51,24 +51,24 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 
 ### Requisitos funcionais
 
-| ID  | Descrição | Prioridade |
-| ------------- | ------------- | ------------- |
-| RF-01 | O software deve apresentar na tela inicial o progresso em horas, os projetos ou tarefas criados, ícone para acesso às listas to-do, ícone para acesso e criação de anotações e um botão para adicionar novos projetos. | Alta |
-| RF-02 | O cronômetro vem ajustado para 25 minutos de atividade e 5 de pausa.  | Média |
-| RF-03 | O software terá uma lista to-do para marcação de tarefas realizadas. | Alta |
-| RF-04 | O software deve conter alternância de tema de acordo com modo diurno e nortuno. | Média |
-| RF-05 | O software deve conter status de progresso basedo em parâmetros. | Média |
-| RF-06 | O software deve conter status de progresso em horas referente a cada tarefa. | Baixa |
-| RF-07 | O software deve conter parâmetros em horas, divididos em "Total Foco", "Total Distração" e "Total Pausa". | Baixa |
-| RF-08 | O software deve conter botão para acesso a um modal para adição de um novo projeto ou tarefa. | Alta |
-| RF-09 | O software deve dispor de um coutdown para visualização de progresso. | Média |
-| RF-10 | Os elementos da lista to-do são riscados quando concluídos. | Média |
-| RF-11 | Os elementos da lista to-do podem ser associados ao temporizador de tempo, garantindo a troca de atividades. | Baixa |
-| RF-12 | A paleta de cores do software muda automaticamente de acordo com o horário do computador local. | Baixa |
-| RF-13 | O software deve exibir um alerta ao final de cada ciclo. | Média |
-| RF-14 | A tela inicial deve exibir menu para interação com outras funcionalidades. | Média |
-| RF-15 | O software deve apresentar dentro de cada tarefa ou projeto um temporizador. | Média |
-| RF-16 | O software deve conter botão para acesso a um modal, onde o usuário poderá escrever anotações, tal como um bloco de notas. | Baixa |
+| ID  | Descrição                                                                                                                                                                                                               | Prioridade |
+| ------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+| RF-01 | O software deve apresentar na tela inicial, o progresso em horas, os projetos ou tarefas criados, ícone para acesso às listas to-do, ícone para acesso e criação de anotações e um botão para adicionar novos projetos. | Alta |
+| RF-02 | O cronômetro vem ajustado para 25 minutos de atividade e 5 de pausa.                                                                                                                                                    | Média |
+| RF-03 | O software terá uma lista to-do para marcação de tarefas realizadas.                                                                                                                                                    | Alta |
+| RF-04 | O software deve conter alternância de tema de acordo com modo diurno e nortuno.                                                                                                                                         | Média |
+| RF-05 | O software deve conter status de progresso basedo em parâmetros.                                                                                                                                                        | Média |
+| RF-06 | O software deve conter status de progresso em horas referente a cada tarefa.                                                                                                                                            | Baixa |
+| RF-07 | O software deve conter parâmetros em horas, divididos em "Total Foco", "Total Distração" e "Total Pausa".                                                                                                               | Baixa |
+| RF-08 | O software deve conter botão para acesso a um modal para adição de um novo projeto ou tarefa.                                                                                                                           | Alta |
+| RF-09 | O software deve dispor de um coutdown para visualização de progresso.                                                                                                                                                   | Média |
+| RF-10 | Os elementos da lista to-do são riscados quando concluídos.                                                                                                                                                             | Média |
+| RF-11 | Os elementos da lista to-do podem ser associados ao temporizador de tempo, garantindo a troca de atividades.                                                                                                            | Baixa |
+| RF-12 | A paleta de cores do software muda automaticamente de acordo com o horário do computador local.                                                                                                                         | Baixa |
+| RF-13 | O software deve exibir um alerta ao final de cada ciclo.                                                                                                                                                                | Média |
+| RF-14 | A tela inicial deve exibir menu para interação com outras funcionalidades.                                                                                                                                              | Média |
+| RF-15 | O software deve apresentar dentro de cada tarefa ou projeto um temporizador.                                                                                                                                            | Média |
+| RF-16 | O software deve conter botão para acesso a um modal, onde o usuário poderá escrever anotações, tal como um bloco de notas.                                                                                              | Baixa |
 
 ### Requisitos não-funcionais
 
