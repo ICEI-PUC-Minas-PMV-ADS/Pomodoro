@@ -50,14 +50,11 @@ Ajuda a gerenciar as distrações e controlar seu tempo
 
 - Mantêm a sua motivação
 
-A criação de uma plataforma mobile facilitará o acesso rápido e remoto de um aplicativo de controle de tempo e tarefas. 
-Isso significa que todos, desde estudantes em idade escolar até reitores que trabalham em grandes universidades, podem se beneficiar das sessões de trabalho programadas e das pausas que o Pomodoro oferece.
 
+## Proposta da solução
 
-
-## Proposta de solução
-
-lalalalalallala
+A criação de uma aplicação mobile pois os mesmos tem ampla possibilidade de uso e de funcionalidade e com isso facilitará o acesso rápido e remoto de um aplicativo de controle de tempo e tarefas. 
+Isso significa que todos, desde estudantes em idade escolar até reitores que trabalham em grandes universidades, poderão se beneficiar das sessões de trabalho programadas e das pausas que o Pomodoro oferece.
 
 
 ## Público-Alvo
