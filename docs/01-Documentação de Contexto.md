@@ -37,7 +37,22 @@ A criação de uma aplicação mobile que permita a gestão do tempo para execu�
 
 ## Justificativa
 
-Esse problema se manifesta não só na questão de prazos, mas também na separação do tempo do trabalho no dia, que pode acabar se estendendo mais que o devido. 
+Justificativa
+O problema em questão se manifesta não só na questão de prazos, mas também na separação do tempo do trabalho no dia a dia, que pode acabar se estendendo mais que o devido.
+Aplicar a técnica, gera grandes benefícios de produtividade em estudos e projetos. Porém os benefícios conseguem ir além, chegando até mesmo a um dos pontos mais importantes na realização das tarefas: a motivação.
+Ajuda a gerenciar as distrações e controlar seu tempo
+
+- Aumenta o seu senso de responsabilidade
+
+- Auxilia a planejar melhor sua semana e projetos
+
+- Diminui a fadiga mental e o estresse
+
+- Mantêm a sua motivação
+
+A criação de uma plataforma mobile facilitará o acesso rápido e remoto de um aplicativo de controle de tempo e tarefas. 
+Isso significa que todos, desde estudantes em idade escolar até reitores que trabalham em grandes universidades, podem se beneficiar das sessões de trabalho programadas e das pausas que o Pomodoro oferece.
+
 
 
 ## Proposta de solução
