@@ -53,7 +53,7 @@ Ajuda a gerenciar as distrações e controlar seu tempo
 
 ## Proposta da solução
 
-A criação de uma aplicação mobile pois os mesmos tem ampla possibilidade de uso e de funcionalidade e com isso facilitará o acesso rápido e remoto de um aplicativo de controle de tempo e tarefas. 
+A criação de uma aplicação mobile pois os mesmos tem ampla possibilidade de uso e de funcionalidade e  isso facilitará o acesso rápido e remoto a um aplicativo de controle de tempo e tarefas. 
 Isso significa que todos, desde estudantes em idade escolar até reitores que trabalham em grandes universidades, poderão se beneficiar das sessões de trabalho programadas e das pausas que o Pomodoro oferece.
 
 
