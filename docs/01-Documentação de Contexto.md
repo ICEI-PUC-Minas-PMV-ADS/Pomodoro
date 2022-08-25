@@ -1,6 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em um mundo cada vez mais acelerado e com múltiplas atividades do cotidiano, se faz necessário gerenciar os estudos e tantas informações novas que o cenário atual proporciona, seja em ambiente escolar, acadêmico ou em ambientes profissionais. A má administração das atividades cotidianas causa nas pessoas fadiga, stress e pouco aproveitamento dos tópicos estudados. 
+Um método que auxilia o gerenciamento de tempo é a "A técnica Pomodoro, desenvolvida em 1988 pelo italiano Francisco Cirillo, é um método de gestão de tempo que pode ser aplicado para diversas tarefas, seja nos estudos, seja no trabalho.
+Conforme o livro de Cirillo “The Pomodoro Technique”, a técnica foi criada para utilizar o tempo como um valioso aliado e realizar o que queremos fazer e do jeito que queremos fazê-lo. Além disso, capacita-nos continuamente para melhorar nossos processos.
+Ao usar esse método, é possível saber não só a quantidade de atividades que são feitas, como também a qualidade. Além disso, pode-se medir o que está atrapalhando a realização das tarefas.
+A simples técnica pode servir também na gestão do trabalho, uma vez que profissionais (tanto nas empresas quanto em situação de trabalho remoto) podem apresentar dificuldades em administrar as tarefas e o tempo para execução destas. 
+Com o advento dos aparelhos eletrônicos, principalmente smartfones e tabletes como auxiliar na educação e uma poderosa ferramenta no ambiente de trabalho, todos com um dispositivo digital, por mais simples que possa ser conseguem usar o método pomodoro.
+O método "usa o tempo como aliado" e consiste em dividir nosso dia em blocos de 25 minutos ("pomodoros"), com pequenos intervalos entre eles.
+
+Este é o passo a passo:
+
+- 1) Escolha a tarefa a ser executada;
+- 2) Ajuste o cronômetro para 25 minutos;
+- 3) Trabalhe na tarefa escolhida até que o alarme toque;
+- 4) Quando o alarme tocar, verifique se completou a tarefa
+- 5) Faça uma pausa curta (5 minutos);
+- 6) Depois de concluir quatro blocos de 25 minutos de trabalho, faça uma pausa mais longa (30 minutos).
 
 ## Especificação do Problema
 
