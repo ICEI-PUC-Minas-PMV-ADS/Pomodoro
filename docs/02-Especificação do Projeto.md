@@ -100,7 +100,7 @@ Dessa forma os alunos podem interagir com o sistema utiliozando os seguintes pas
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo uma visão ampla do escopo do projeto.
 
-#Como ler o diagrama:
+# Como ler o diagrama:
 
 - Em "X" estão os requisitos funcionais que se adequam as queixas que os usuarios aprensentam.
 - O colorido mostra as relações entre os requisitos e dependencia entre eles.
@@ -109,3 +109,4 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 
 
+ 
