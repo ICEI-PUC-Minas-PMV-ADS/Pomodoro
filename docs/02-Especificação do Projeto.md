@@ -105,8 +105,28 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 - Em "X" estão os requisitos funcionais que se adequam as queixas que os usuarios aprensentam.
 - O colorido mostra as relações entre os requisitos e dependencia entre eles.
  
-![MAtriz](https://user-images.githubusercontent.com/75712250/187014438-c0b8e2eb-6ea3-448c-ac13-ccca27f962a5.png)
+![Matriz](https://user-images.githubusercontent.com/75712250/187014438-c0b8e2eb-6ea3-448c-ac13-ccca27f962a5.png)
 
 
+# Gerenciamento de Projeto
 
- 
+De acordo com o PMBoK v6, há 10 áreas pilares para gerenciar projetos e que caracterizam a multidisciplinaridade envolvida: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições e Partes Interessadas. Para o desenvolvimento de projetos, é necessário considerar a gerência de todas essas áreas. Como tais áreas se complementam e estão diretamente relacionadas, não é possível examinar apenas uma área. Por exemplo, a ampliação do escopo de um projeto interfere também em seu cronograma e em seus custos. 
+
+## Gerenciamento de tempo
+
+O gráfico de Gantt, ou diagrama de Gantt, é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las. No momento, o diagrama mostra o planejamento mais geral das entregas de cada etapa, sendo que as tarefas específicas e seus responsáveis são definidos a cada sprint e gerenciados no Microsoft Agenda.
+
+![Planner - tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/gantt.jpg)
+
+
+## Gerenciamento de pessoal
+
+O gerenciamento adequado de tarefas permite que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. Conforme mencionado no item anterior, o Microsoft Agenda apresenta o detalhamento de cada sprint:
+
+![Planner - tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/Planner%20-%20%C3%A9picos.png)
+
+
+No Microsoft Agenda, as tarefas podem também ser rastreadas por status, bucket, prioridade e responsável, bem como seu estado de execução:
+
+![Planner](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/Planner%20-%20gr%C3%A1ficos.png)
+![Planner - membros](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/Planner%20-%20membros.png)
