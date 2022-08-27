@@ -86,3 +86,20 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 | ------------- | ------------- |
 | RE-01 | O projeto necessita ser entregue até o final do semestre, respeitando o prazo estipulado. |
 | RE-02 | O projeto deve ser implementado com uso de tecnologias mobile, podendo fazer uso de bibliotecas que influenciem positivamente na qualidade do software.  |
+
+
+## Diagrama de Casos de Uso
+
+Na Linguagem de modelagem unificada (UML), o objetivo do diagrama de caso de uso é demonstrar as diferentes maneiras que o usuário pode interagir com um sistema.
+
+Dessa forma os alunos podem interagir com o sistema utiliozando os seguintes passos:
+
+![Diagrama sem nome drawio](https://user-images.githubusercontent.com/75712250/187011909-b33c1892-87de-4159-b1c6-dcd2fbdaf5c9.svg)
+
+# Matriz de Rastreabilidade
+
+A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio.
+
+
+
+
