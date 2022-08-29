@@ -130,3 +130,7 @@ No Microsoft Agenda, as tarefas podem também ser rastreadas por status, bucket,
 
 ![Planner](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/Planner%20-%20gr%C3%A1ficos.png)
 ![Planner - membros](https://github.com/ICEI-PUC-Minas-PMV-ADS/Pomodoro/blob/main/docs/img/Planner%20-%20membros.png)
+
+
+## Gerenciamento financeiro 
+![image](https://user-images.githubusercontent.com/88354883/187205566-4800d7b8-3d01-4cb0-b25b-f9fdec528424.png)
