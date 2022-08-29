@@ -133,4 +133,7 @@ No Microsoft Agenda, as tarefas podem também ser rastreadas por status, bucket,
 
 
 ## Gerenciamento financeiro 
+
+O gerenciamento financeiro permite a todos integrantes do projeto uma ideia inicial de gastos e investimentos, sendo assim não atigindo investidores de forma inesperada e mantendo a ideia de gasto inicial do projeto.
+
 ![image](https://user-images.githubusercontent.com/88354883/187205566-4800d7b8-3d01-4cb0-b25b-f9fdec528424.png)
