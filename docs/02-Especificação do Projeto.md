@@ -84,7 +84,7 @@ O escopo funcional do projeto abrange duas principais partes: requisitos funcion
 
 | ID  | Descrição |
 | ------------- | ------------- |
-| RE-01 | O projeto necessita ser entregue até o final do semestre, respeitando o prazo estipulado. |
+| RE-01 | O projeto necessita ser entregue até 07/12/2022, respeitando o prazo estipulado. |
 | RE-02 | O projeto deve ser implementado com uso de tecnologias mobile, podendo fazer uso de bibliotecas que influenciem positivamente na qualidade do software.  |
 
 
