@@ -152,4 +152,4 @@ O gerenciamento financeiro permite a todos integrantes do projeto uma ideia inic
 | Especialização Profissional    |   R$ 1.400,00
 | Cursos e treinamentos          |   R$ 100.000,00
 | Licenças de Softwares          |   R$ 50.000,00
-| **Total**                      |   **R$ 386.800,00**
+| **Total**                      |   **R$ 386.800,01**
